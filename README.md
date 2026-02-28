@@ -53,3 +53,6 @@ Email Me 👉 ✉️jadhav.tejas7553@gmail.com
 ### 🍔 Food Villa
 React-based food ordering UI project.
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tejas7553&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
